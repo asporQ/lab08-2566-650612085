@@ -1,7 +1,7 @@
 import { Footer } from "../../component/Footer";
 import { Header } from "../../component/Header";
-import { TaskInput } from "../../component/TaskInput";
 import { Task } from "../../component/Task";
+import { TaskInput } from "../../component/TaskInput";
 
 export default function Home() {
   return (
@@ -24,7 +24,7 @@ export default function Home() {
       {/* //footer section */}
       <Footer
         year="2023"
-        fullname="Tikomporn Luxsanaprokin"
+        fullName="Tikomporn Luxsanaprokin"
         studentId="650612085"
       />
     </div>
